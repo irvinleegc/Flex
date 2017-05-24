@@ -1,25 +1,16 @@
-name: Flex
-
-title: Irvin Lee's GitHub Pages
+title: Irvin's GitHub Pages
 email: 
-description: "Hello World!"
-url: "http://irvinleegc.github.io/Flex"
+description: Man's Search for meaning.. of Information Technology
+url: "http://irvinleegc.github.io/flex"
 baseurl: ""
+
 twitter_username: _irvinleegc_
 github_username:  irvinleegc
 linkedin_username: irvinlee
 disqus-shortname: irvinleegc-github-io
 google_analytics: UA-93472024-1
 
-
 permalink: pretty
 
-pygments: true
-highlighter: rouge
-
 markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
   
