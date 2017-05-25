@@ -29,6 +29,5 @@
     </p>
   </div>
   {% include social-share.html %}
-  (% if page.comments %}
-  {% include disqus.html %}{% endif %}
+  {% if page.comments %}{% include disqus.html %}{% endif %}
 </div>
