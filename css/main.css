@@ -189,8 +189,9 @@ a:hover {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
-  position: relative;
-  overflow: auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  overflow:auto;
 }
 
 .post pre code {
